@@ -1,0 +1,52 @@
+Index	Parent_1	Parent_2	Chromo_1	Chromo_2	N_flowers	N_seeds	N_offspring
+1	V. burkwoodii	V. carlesii	18	18	803	77	72
+2	V. burkwoodii	V. fragrans	18	16	213	4	2
+3	V. burkwoodii	V. suspensum	18	16	27	7	2
+4	V. carlesii	V. bitchiuense	18	18	99	43	41
+5	V. carlesii	V. burkwoodii	18	18	73	7	4
+6	V. carlesii	V. carlcephalum	18	18	217	96	76
+7	V. carlesii	V. fragrans	18	16	461	158	23
+8	V. cassinoides	V. dentatum	18	36	256	8	7
+9	V. cassinoides	V. opulus	18	18	311	27	2
+10	V. cassinoides	V. rafinesquianum	18	36	225	7	4
+11	V. cassinoides	V. setigerum	18	36	204	31	6
+12	V. cassinoides	V. dentatum var. pubescens	18	72	130	49	15
+13	V. dentatum	V. rafinesquianum	36	36	386	190	123
+14	V. dentatum	V. setigerum	36	36	472	116	11
+15	V. dentatum var. pubescens	V. rafinesquianum	72	36	329	5	2
+16	V. dilatatum	V. acerifolium	18	18	351	2	1
+17	V. dilatatum	V. dentatum	18	36	611	35	6
+18	V. dilatatum	V. lobophyllum	18	18	270	238	126
+19	V. dilatatum	V. setigerum	18	36	367	4	1
+20	V. fragrans	V. carlesii	16	18	278	12	1
+21	V. fragrans	V. plicatum f. tomentosum	16	16	103	13	3
+22	V. lantana	V. rhytidophyllum	18	18	328	40	7
+23	V. lentago	V. lantana	18	18	172	9	2
+24	V. lentago	V. prunifolium	18	18	167	28	26
+25	V. lentago	V. rhytidophyllum	18	18	328	40	7
+26	V. molle	V. rafinesquianum	36	36	329	3	1
+27	V. opulus	V. trilobum	18	18	109	2	1
+28	V. plicatum f. tomentosum	V. lantanoides	16	18	578	169	128
+29	V. prunifolium	V. carlesii	18	18	215	3	1
+30	V. prunifolium	V. fragrans	18	16	195	7	3
+31	V. rhytidophyllum	V. lantana	18	18	1561	1035	141
+32	V. setigerum	V. fragrans	36	16	307	4	2
+33	V. setigerum	V. prunifolium	36	18	303	4	1
+34	V. setigerum	V. rhytidophyllum	36	18	269	10	8
+35	V. sieboldii	V. burkwoodii	32	18	631	9	1
+36	V. sieboldii	V. carlesii	32	18	868	161	45
+37	V. sieboldii	V. fragrans	32	16	910	122	22
+38	V. sieboldii	V. lantana	32	18	582	178	1
+39	V. sieboldii	V. lentago	32	18	599	108	2
+40	V. sieboldii	V. plicatum f. tomentosum	32	16	599	145	23
+41	V. sieboldii	V. prunifolium	32	18	578	36	2
+42	V. sieboldii	V. setigerum	32	36	541	38	2
+43	V. suspensum	V. burkwoodii	16	18	43	6	5
+44	V. suspensum	V. carlesii	16	18	78	11	7
+45	V. suspensum	V. fragrans	16	16	87	5	5
+46	V. tinus	V. burkwoodii	36	18	138	2	1
+47	V. tinus	V. cinnamomifolium	36	18	257	1	1
+48	V. tinus	V. fragrans	36	18	826	3	1
+49	V. tinus	V. lantana	36	18	111	1	1
+50	V. trilobum	V. opulus	18	18	215	99	9
+51	V. trilobum	V. orientale	18	18	45	1	1
